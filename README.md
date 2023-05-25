@@ -1,6 +1,4 @@
-# Hi 👋
-
-<h2>Lintang here</h2>
+<h1>Hi </h1><h2>Lintang here 👋</h2>
 <p>Welcome to my playground. I hope we can share some tips and knowledge, let's be friend 👯 </p>
 
 <!--

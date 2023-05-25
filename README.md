@@ -2,10 +2,16 @@
 Welcome to my playground. I hope we can share some tips and knowledge, let's be friends 👯
 
 
-### Get in touch
-I like to explore tech and art, you can find me on
+### Interest
+I love to explore something new, especially about tech and art 😻
 
-[![Email][E-mail]][Email-url] [![Linkedin][Linked.in]][Linkedin-url] 
+
+### Get in touch
+[![Email][E-mail]][Email-url] [![Linkedin][Linked.in]][Linkedin-url] [![Behance][Behance.net]][Behance-url] 
+
+
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -13,4 +19,6 @@ I like to explore tech and art, you can find me on
 [Linkedin-url]: https://www.linkedin.com/in/phyllalintang/
 [E-mail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Email-url]: mailto:phyllalintang@gmail.com
+[Behance.net]: https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white
+[Behance-url]: https://www.behance.net/lintangnfs
 

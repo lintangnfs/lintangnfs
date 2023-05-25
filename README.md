@@ -1,6 +1,7 @@
 # Hi 👋
 
-<h1>I am Phyllalintang Nafasa</h1>
+<h2>Lintang here</h2>
+<p>Welcome to my playground. I hope we can share some tips and knowledge, let's be friend 👯 </p>
 
 <!--
 **lintangnfs/lintangnfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

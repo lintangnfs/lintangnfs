@@ -1,8 +1,9 @@
-<h2>Hi there! Lintang here 👋</h2>
-<p>Welcome to my playground. I hope we can share some tips and knowledge, let's be friends 👯 </p><br/>
+## Hi there! Lintang here 👋
+Welcome to my playground. I hope we can share some tips and knowledge, let's be friends 👯
 
-<h3>Get in touch</h3>
-<p>I like to explore tech and art, you can find me on </p>
+
+### Get in touch
+I like to explore tech and art, you can find me on
 * [![Next][Next.js]][Next-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->

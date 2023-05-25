@@ -3,7 +3,7 @@
 
 <h3>Get in touch</h3>
 <p>I like to explore tech and art, you can find me on </p>
-* [![Linkedin][Next.js]][Next-url]
+* [![Next][Next.js]][Next-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

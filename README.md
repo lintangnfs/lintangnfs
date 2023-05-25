@@ -1,19 +1,15 @@
-<h2>Hi! Lintang here 👋</h2>
-<p>Welcome to my playground. I hope we can share some tips and knowledge, let's be friend 👯 </p>
+<h2>Hi there! Lintang here 👋</h2>
+<p>Welcome to my playground. I hope we can share some tips and knowledge, let's be friends 👯 </p><br/>
 
-<h3>Reach me</h3>
-<p>I like to explore some tech and art, you can find me on </p>
-<!--
-**lintangnfs/lintangnfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Get in touch</h3>
+<p>I like to explore tech and art, you can find me on </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Linkedin-img]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[Linked-in]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-url]: https://www.linkedin.com/in/phyllalintang/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+

@@ -1,6 +1,8 @@
-<h1>Hi </h1><h2>Lintang here 👋</h2>
+<h2>Hi! Lintang here 👋</h2>
 <p>Welcome to my playground. I hope we can share some tips and knowledge, let's be friend 👯 </p>
 
+<h3>Reach me</h3>
+<p>I like to explore some tech and art, you can find me on </p>
 <!--
 **lintangnfs/lintangnfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

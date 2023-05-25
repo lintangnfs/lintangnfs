@@ -1,5 +1,5 @@
 ## Hi there! Lintang here 👋
-Welcome to my playground. I hope we can share some tips and knowledge, let's be friends 👯
+Welcome to my playground. I hope we can share some tips and knowledge, let's be friends **ʕ•́ᴥ•̀ʔっ♡**
 
 
 ### Interest
